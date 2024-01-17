@@ -62,7 +62,8 @@ body{
   .top-container {
       height: auto;
       padding: 20px;
-      background-size:contain;
+      background-size:cover;
+      background-position:center;
   }
 
 .title-text h1 {
